@@ -1,0 +1,25 @@
+.thumbsup_buttons {
+  margin-bottom: 20px;
+  margin-top: -15px;
+}
+
+.thumbsup_buttons > div {
+ vertical-align: middle !important;
+ display: inline-block;
+}
+
+.nk-fajne {
+ height: 24px;
+}
+
+.g-plusone {
+}
+
+.fb-like {
+ height: 20px;
+}
+
+.fb-like iframe {
+ vertical-align: top !important;
+}
+
